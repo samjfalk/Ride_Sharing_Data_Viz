@@ -1,5 +1,7 @@
 # Ride_Sharing_Data_Viz
 
+![alt text](https://github.com/samjfalk/Ride_Sharing_Data_Viz/blob/master/picture.png?raw=true)
+
 In the Carto dashboard, a few different elements were combined to give the user an interactive experience. At first, the viewer will notice an animation of the paths of a random set of vehicles throughout the day. This can be seen on the map with the small red dots. Below the map, a user can select a specific hour or multiple to see what movement happened in that time in the map above.
 
 On the right, a few graphs give the opportunity for more exploration into distance traveled and passengers in a vehicle at points of pick up or drop off. in the distance traveled graph, it is sorted by the total distance traveled. Simply clicking on one of the vehicle ids will filter the view on the map to the left. This way, the trip of one vehicle can be seen. Also, searching for one of the many other vehicles in the sample set is also accessible with this chart. 
